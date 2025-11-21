@@ -41,15 +41,3 @@ desktop.ini
 
 # Logs
 *.log
-
-# Screenshots (optional - varsa)
-screenshots/
-*.png
-*.jpg
-*.jpeg
-!assets/*.jpg
-!assets/*.png
-
-# GitHub upload guide (optional)
-GITHUB_UPLOAD.md
-
