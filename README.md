@@ -73,13 +73,9 @@ monkey-pose-mimic/
 
 ## 👨‍💻 Geliştiriciler
 
-**[Beyza Tanrıverdi]**
 **[Kadir Talha Uncu]**
 
-📧 tnrvrd.beyza@gmail.com
 📧 talhauncu.dev@gmail.com
-
-🔗 [GitHub](https://github.com/beyzatanriverdi) • [LinkedIn](https://www.linkedin.com/in/beyza-tanrıverdi-8a46b0364)
 
 🔗 [GitHub](https://github.com/talhauncu) • [LinkedIn](https://www.linkedin.com/in/kadir-talha-uncu-622186339)
 
